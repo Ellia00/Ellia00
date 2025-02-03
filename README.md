@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 📫 You can reach me via [Email](mailto:elliotborgkvist@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/elliot-borgkvist-500178323/).
 
-![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ellia00&show_icons=true&theme=radical)
+<!-- ![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ellia00&show_icons=true&theme=radical)
